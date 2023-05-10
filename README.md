@@ -1,13 +1,6 @@
 # Readings on Generative AI
 This is a reading list of generative AI articles. The audience is for students in the Management Science course participating in the May 2023 Scenario Week at UCL School of Management.
 
-# General Readings
-- [UCL Policy: Engaging with AI in your education and assessment](https://www.ucl.ac.uk/students/exams-and-assessments/assessment-success-guide/engaging-ai-your-education-and-assessment)
-- [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
-- [Measuring Trends in Artifical Intelligence](https://aiindex.stanford.edu/report/)
-- [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
-
-
 # How it Works
 - [What is GPT Doing... and Why Does it Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
@@ -15,6 +8,12 @@ This is a reading list of generative AI articles. The audience is for students i
 - [Foundation Models: How Startups Win With Generative AI](https://www.madrona.com/foundation-models-how-startups-can-win-with-generative-ai/)
 - [Foundation Models: The future (still) isn't happening fast enough](https://www.madrona.com/foundation-models/)
 - [If You're Not First You're Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+
+# Additional Readings
+- [UCL Policy: Engaging with AI in your education and assessment](https://www.ucl.ac.uk/students/exams-and-assessments/assessment-success-guide/engaging-ai-your-education-and-assessment)
+- [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
+- [Measuring Trends in Artifical Intelligence](https://aiindex.stanford.edu/report/)
+- [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 
 # Policy
 
