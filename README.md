@@ -27,6 +27,9 @@ This is a reading list of generative AI articles. The audience is for students i
 ## US
 - [Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 
+## Organizations
+- [OpenAI's Governance of Superintelligence](https://openai.com/blog/governance-of-superintelligence)
+
 # Ethics
 - [The case for taking AI seriously as a threat to humanity](https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment)
 - [The Human Need for Ethical Guidelines Around ChatGPT](https://walton.uark.edu/insights/posts/the-human-need-for-ethical-guidelines-around-chatgpt.php)
@@ -35,6 +38,9 @@ This is a reading list of generative AI articles. The audience is for students i
 - [Estimate of the Carbon Footprint of BLOOM, a 176B Parameter Langauge Model](https://arxiv.org/pdf/2211.02001.pdf)
 
 # Tools
+
+## Tools Repository
+- [AI Tool Hunt](https://www.aitoolhunt.com)
 
 ## Writing
 - [Bing Chat](bing.com/chat)
